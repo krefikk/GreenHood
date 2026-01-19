@@ -21,6 +21,9 @@ This project was engineered with a focus on **performance**, **security**, and *
 | **Security** | BCrypt | Password hashing and salting. |
 | **Packaging** | jpackage | Native executable generation. |
 
+## ER Diagram of Database
+![ER](ER Diagram.png)
+
 ## Engineering Highlights
 
 ### Security
