@@ -34,14 +34,12 @@ This project was engineered with a focus on **performance**, **security**, and *
 
 ## Screenshots
 
-*(Add screenshots of your Login Screen, Dashboard, or specific features here)*
-
 | Title | Screenshot |
 | :---: | :---: |
-| Login Page | ![Login](https://drive.google.com/file/d/182yRCfZZ40qMq65e5MmjCiEo_Thxa2SM/view?usp=sharing) | 
-| Main Dashboard | ![Dashboard](https://drive.google.com/file/d/1xnS0MIUfhxS4z13zDEmPgVWrSQphY9s-/view?usp=sharing) |
-| Stats Page | ![Stats](https://drive.google.com/file/d/15Yo4QwhbapRcNDkSvXEg1HZSErTZUozJ/view?usp=sharing) | 
-| Edit Profile | ![EditProfile](https://drive.google.com/file/d/1QgFabNwSsPOhQcgbJ0yDyEH44hnP6sVG/view?usp=sharing) |
+| Login Page | ![Login](https://drive.google.com/uc?export=view&id=182yRCfZZ40qMq65e5MmjCiEo_Thxa2SM) |
+| Main Dashboard | ![Dashboard](https://drive.google.com/uc?export=view&id=1xnS0MIUfhxS4z13zDEmPgVWrSQphY9s-) |
+| Stats Page | ![Stats](https://drive.google.com/uc?export=view&id=15Yo4QwhbapRcNDkSvXEg1HZSErTZUozJ) |
+| Edit Profile | ![EditProfile](https://drive.google.com/uc?export=view&id=1QgFabNwSsPOhQcgbJ0yDyEH44hnP6sVG) |
 
 ## Installation
 
