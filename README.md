@@ -39,10 +39,10 @@ This project was engineered with a focus on **performance**, **security**, and *
 
 | Title | Screenshot |
 | :---: | :---: |
-| Login Page | ![Login](img/login.png) |
-| Main Dashboard | ![Dashboard](img/dashboard.png) |
-| Stats Page | ![Stats](img/stats.png) |
-| Edit Profile | ![EditProfile](img/editprofile.png) |
+| Login Page | ![Login](img/login.PNG) |
+| Main Dashboard | ![Dashboard](img/dashboard.PNG) |
+| Stats Page | ![Stats](img/stats.PNG) |
+| Edit Profile | ![EditProfile](img/editprofile.PNG) |
 
 ## Installation
 
