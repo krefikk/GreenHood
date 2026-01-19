@@ -1,0 +1,252 @@
+KEY;TR;EN
+recyclabledisposaltypes;Dönüştürülebilir Atık Türleri;Recyclable Disposal Types
+disposaltype;Atık Türü;Disposal Type
+disposaltypepaper;Kağıt;Paper
+disposaltypeplastic;Plastik;Plastic
+disposaltypeglass;Cam;Glass
+disposaltypemetal;Metal;Metal
+disposaltypebattery;Pil;Battery
+disposaltypeelectronic;Elektronik;Electronic
+disposaltypemedical;Tıbbi;Medical
+disposaltypeorganic;Organik;Organic
+disposaltypetextile;Tekstil;Textile
+disposaltypewood;Ahşap;Wood
+weight;Ağırlık;Weight
+volume;Hacim;Volume
+date;Tarih;Date
+address;Adres;Address
+min;Minimum;Minimum
+max;Maksimum;Maximum
+logintype;Giriş Türü;Login Type
+login;Giriş Yap;Login
+register;Kaydol;Register
+logintype;Giriş Türü;Login Type
+personallogin;Bireysel (Kullanıcı);Personal (User)
+corporatelogin;Kurumsal (Şirket); Corporate (Company)
+guest;Misafir;Guest
+personalregister;Bireysel Kayıt;Personal Registration
+corporateregister;Kurumsal Kayıt;Corporate Registration
+tcextended;TC Kimlik Numarası;TR ID Number
+tc;TCKN;TCID No
+taxno;Vergi Kimlik Numarası;Tax ID Number
+password;Parola;Password
+noaccount;Hesabın yok mu?;Don't have an account?
+fname;İsim;First Name
+mname;İkinci İsim;Middle Name
+lname;Soyisim;Last Name
+birthdate;Doğum Tarihi;Birth Date
+email;E-Posta;Email
+phonenumber;Telefon;Phone
+province;İl;Province
+district;İlçe;District
+neighborhood;Mahalle;Neighborhood
+street;Sokak;Street
+building;Bina;Building
+buildingno;Bina No;Building No
+floorno;Kat No;Floor No
+doorno;Daire No;Door No
+gender;Cinsiyet;Gender
+companyname;Şirket İsmi;Company Name
+fax;Faks;Fax
+createnewaccount;Yeni Hesap Oluştur;Create New Account
+dashboard;Ana Kontrol Paneli;Main Dashboard
+livestream;Canlı Akış;Live Stream
+disposaldate;Atılma Tarihi;Date of Disposal
+available;Boşta;Available
+reserve;Rezerve Et;Reserve
+reserved;Rezerve;Reserved
+score;Puan;Score
+neighbors;Komşular;Neighbors
+companies;Şirketler;Companies
+leaderboards;Liderlik Tabloları;Leaderboards
+recentdisposals;Son Atılanlar;Recent Disposals
+recentreservations;Son Rezerveler;Recent Reservations
+recentrecycles;Son Dönüşümler;Recent Recycles
+reservationdate;Rezerve Tarihi;Reservation Date
+reserver;Rezerve Eden;Reserver
+recycledate;Dönüşüm Tarihi;Recycle Date
+gainedscore;Kazanılan Puan;Score Gained
+recycler;Dönüştüren;Recycler
+noaccess;Erişim Yok;No Access
+recycle;Geri Dönüştür;Recycle
+recycled;Geri Dönüştürüldü;Recycled
+logout;Çıkış;Log Out
+yes;Evet;Yes
+no;Hayır;No
+userdashboard;Kullanıcı Paneli;User Dashboard
+companydashboard;Kurumsal Panel;Corporate Dashboard
+welcome;Hoş Geldiniz, {0};Welcome, {0}
+myprofile;Profilim;My Profile
+returntomainmenu;Ana Panele Dön;Return to Main Dashboard
+userid;Kullanıcı ID;User ID
+companyid;Şirket ID;Company ID
+fullname;İsim Soyisim;Full Name
+age;Yaş;Age
+deleteacc;Hesabı Sil;Delete Account
+profileinfo;Profil Bilgileri;Profile Information
+edit;Düzenle;Edit
+editprofile;Profili Düzenle;Edit Profile
+generalinfo;Genel Bilgiler;General Information
+addressinfo;Adres Bilgileri;Address Information
+back;Geri;Back
+apply;Uygula;Apply
+changepass;Parolayı Değiştir;Change Password
+confirmchangepass;Parolanızı değiştirmek istediğinize emin misiniz?;Are you sure you want to change your password?
+currpass;Mevcut Parolanız;Current Password
+newpass;Yeni Parolanız;New Password
+again;Tekrar;Again
+ok;Tamam;OK
+cancel;İptal;Cancel
+yearsold;{0} Yaşında;{0} Years Old
+persdisposalmng;Bireysel Atık Yönetimi;Personal Disposal Management
+corpdisposalmng;Kurumsal Atık Yönetimi;Corporate Disposal Management
+disposalhstry;Atık Geçmişim;My Disposal History
+stats;İstatistiklerim;My Stats
+nleaderboard;Mahalle Sıralaması;Neighborhood Leaderboard
+nghleaderboard;{0} Mahallesi Liderlik Tablosu;{0} Neighborhood Leaderboard
+lastmonth;Son 1 Ay;Last Month
+lastyear;Son 1 Yıl;Last Year
+alltime;Tüm Zamanlar;All Times
+totaldisposal;Atılan Toplam Çöp;Total Discarded Disposal
+totalreservationreceived;Alınan Toplam Rezervasyonlar;Total Reservations Received
+totalreservation;Yapılan Toplam Rezervasyonlar;Total Reservations
+totalrecycles;Toplam Geri Dönüşüm;Total Recyles
+totaldiscardedweight;Atılan Toplam Ağırlık;Total Discarded Weight
+totaldiscardedvolume;Atılan Toplam Hacim;Total Discarded Volume
+contscore;Katkı Puanı;Contribution Score
+addnewdisposal;Yeni Atık Ekle;Add New Disposal
+confirmadddisposal;Bu atığı eklemek istediğinize emin misiniz?;Are you sure you want to add this disposal to the system?
+noreservations;Rezerve edilmiş atık yok.;No reserved disposals.
+norecycles;Geri dönüştürülmüş atık yok.;No recycled disposals.
+scorevalue;Puan Değeri;Score Value
+dofilter;Filtrele;Filter
+disposalfilter;Atık Filtreleme;Disposal Filter
+showonlyabletorecycle;Sadece geri dönüştürebileceğim atıkları listele.;List only disposals that I can recycle.
+active;Aktif;Active
+reservedweightvolume;Rezerve Edilen Toplam Ağırlık / Hacim;Reserved Total Weight / Volume
+recycledweightvolume;Geri Dönüştürülen Toplam Ağırlık / Hacim;Recycled Total Weight / Volume
+disposalpool;Atık Havuzu;Disposal Pool
+unknown;Bilinmiyor;Unknown
+alreadyregisteredemail;Bu e-posta adresi zaten kayıtlı!;This email address is already registered!
+alreadyregisteredphone;Bu telefon numarası zaten kayıtlı!;This contact number is already registered!
+invalidcname;Geçersiz şirket ismi;İnvalid company name;
+invalibuildinginfo;Bina, kat ve daire numaraları sayı olmalıdır!;Building, floor and door numbers must be numbers!
+alreadyregisteredcname;Bu şirket ismi zaten kayıtlı!;This company name is already registered!
+alreadyregisteredfax;Bu faks numarası zaten kayıtlı!This fax number is already registered!
+erroraddress;Adres oluşturulurken bir hata oluştu.;An error occurred while processing the address.
+addressnotfound;Adres bulunamadı!;Address couldn't be found!
+errordb;Veri tabanı hatası.;Database error.;
+nouserfound;Kullanıcı bulunamadı!;User couldn't be found!
+nopasswordfound;Yanlış parola!;Wrong password!
+nouserfound;Kullanıcı bulunamadı!;User couldn't be found!
+error;Hata;Error
+invalidtrid;Geçersiz TCKN!;Invalid TR ID!;
+alreadyregisteredtrid;Bu TCKN zaten kayıtlı!;This TR ID is already registered!
+errorusercreate;Kullanıcı oluşturulamadı.;User couldn't be created.
+errorcompanycreate;Şirket oluşturulamadı.;Company couldn't be created.
+errorregistration;Kayıt Hatası;Registration Error
+chooseatleastonedtype;Lütfen en az bir atık türü seçiniz!;Please choose at least one type of disposal!
+alreadyregisteredtaxno;Bu vergi kimlik numarası zaten kayıtlı!;This tax ID number is already registered!
+lengthpass;Parola en az {0}, en fazla {1} karakterden oluşabilir!;The password must be at least {0} and no more than {1} characters long!
+rulespass;Parola en az bir büyük harf, bir küçük harf ve bir rakam içermelidir!;The password must contain at least one uppercase letter, one lowercase letter, and one number!
+formatdate;Yanlış tarih formatı! YYYY-MM-DD şeklinde giriniz.;Wrong date format! Please enter as YYYY-MM-DD.
+invalidbirthdate;Gelecekten geliyorsun herhalde?;You must be from the future, right?
+errorbirthdatelow;Üzgünüm, yaşınız çok küçük.;Sorry, you're too young.
+errorbirthdatehigh;1. Dünya Savaşı'na da katıldın mı?;Did you partake in WWI?
+emptyname;İsim soyisim boş bırakılamaz!;First and last name can't be empty!
+invalidname;Lütfen geçerli bir isim soyisim giriniz!;Please enter a valid first and last name!
+rulesname;İsim ve soyisim en az {0}, en fazla {1} karakterden oluşabilir.;The first and last name can consist of a minimum of {0} and a maximum of {1} characters.
+rulesemail;E-posta adresleri maksimum {0} karakterden oluşabilir.;Email can consist of a maximum of {0} characters.
+rulecountrycode;Numaranın başına ülke kodu eklenmelidir!;The country code must be included at the beginning of the number!
+rulesphone;İletişim numarası en az {0}, en fazla {1} karakterden oluşmalıdır!;Contact number can consist of a minimum of {0} and a maximum of {1} characters.
+formatphone;Yanlış iletişim numarası formatı! '+905056471243' gibi olmalıdır.;Wrong contact number format! Must be like: '+905056471243'.
+emptycname;Şirket ismi boş bırakılamaz!;Company name can't be empty!
+rulescname;Şirket ismi en fazla {0} karakterden oluşabilir.;Company name can consist of a maximum of {0} characters.
+formatfax;Faks numarası 'xxx-xxx-xxxx' formatında olmalıdır.;Fax number must be like: 'xxx-xxx-xxxx'
+emptytaxno;Lütfen vergi kimlik numarası giriniz!;Please enter a tax ID number!
+formattaxno;Vergi kimlik numarasında yalnızca sayı bulunabilir!;Tax ID number can only consist of numbers!
+rulestaxno;Vergi kimlik numarası en az {0}, en fazla {1} haneli olabilir.;The tax ID number can consist of a minimum of {0} and a maximum of {1} characters.
+successfulllogout;Çıkış başarılı.;Log out successfull.
+confirmlogout;Çıkış yapmak istediğinize emin misiniz?;Are you sure you want to log out?
+errornotfounduser;Kullanıcı bulunamadı, lütfen tekrar giriş yapın.;User couldn't be found, please log in again.
+errorsession;Oturum hatası, please log in again.;Session error, please log in again.
+disposalreserved;Atık rezerve edildi!;Disposal reserved!
+failed;İşlem başarısız.;Action failed
+outofscope;Kapsam Dışı;Out of Scope
+outofscopetext;Şirketiniz bu atık türünü işleme yetkisine sahip değil.;Your company does not have the authority to process this type of disposal.
+pendingaction;İşlem Bekleniyor;Pending Action
+confirmreservationcancel;Bu rezervasyonu iptal etmek istediğinize emin misiniz?;Are you sure you want to cancel this reservation?
+confirmrecycle;Bu atığı geri dönüştürdüğünüzü onaylıyor musunuz?;Do you confirm you recycled this disposal?
+loading;Yükleniyor...;Loading...
+choose;Seçiniz...;Choose...
+erroraddresschoose;Lütfen adresinizi eksiksiz seçiniz.;Please choose your address completely.
+emptyaddress;Lütfen adresi tam giriniz.;Please enter address completely.
+emptybuildinginfo;Lütfen bina, kat ve daire numaralarını giriniz.;Please enter building, floor and door numbers.
+successfullupdate;Bilgiler başarıyla güncellendi!;Information successfully updated!
+failedupdate;Güncelleme başarısız.;Update failed.
+emptyinput;Lütfen tüm alanları doldurun!;Please fill all fields!
+emptyaddressinput;Lütfen il, ilçe, mahalle ve sokak alanlarını eksiksiz doldurunuz.;Please fill province, district, neighborhood and street fields.
+uncompatiblepass;Yeni parolalar birbirleriyle uyuşmuyor!;New passwords don't match!
+samepass;Yeni parola, eskisiyle aynı olamaz!;New password cannot be the same as the current one!
+successfullupdatepass;Parolanız başarıyla değiştirildi!;Password updated successfully!
+failedupdatepass;Parolanız değiştirilemedi. Mevcut şifrenizi yanlış girmiş olabilirsiniz.;Failed to update the password. You may have entered your current password incorrectly.
+successfulllogin;Giriş başarılı!;Login successfull!
+guestprofile;Misafir hesapların profil bilgisi bulunmamaktadır.;Guest accounts do not have profile information.
+dontspecify;Belirtmek İstemiyorum;I Don't Want to Specify
+unspecified;Belirtilmemiş;Unspecified
+male;Erkek;Male
+female;Kadın;Female
+malecode;E;M
+femalecode;K;F
+unspecifiedcode;B;N
+governmentservice;Devlet Kurumu;Government Service
+confirmdeleteacc;DİKKAT! Hesabınız kalıcı olarak silinecektir. Bu işlem geri alınamaz. Devam etmek istiyor musunuz?;WARNING! Your account will be permanently deleted. This action cannot be undone. Do you want to continue?
+titleconfirmdeleteacc;Hesabı Sil;Delete Account
+successfulldeleteacc;Hesabınız başarıyla silindi. Hoşçakalın!;Your account deleted successfully! Goodbye!
+faileddeleteacc;Hesap silinirken bir hata oluştu.;Failed to delete account.
+failedaddressregister;Adres kaydedilemedi.;Address couldn't be registered.
+successfulluserregister;Kullanıcı kaydı başarıyla oluşturuldu.;User successfully created.
+successfullcompanyregister;Şirket kaydı başarıyla oluşturuldu.;Company successfully created.
+emptyfields;Lütfen tüm alanları doldurun!;Please fill all fields!
+errorlowweightvolume;Ağırlık ve hacim sıfırdan büyük olmalıdır!;Weight and volume must be greater than zero!
+successfulldisposal;Atık başarıyla eklendi!;Disposal successfully added!
+faileddisposal;Atık ekleme sırasında bir hata oluştu.;Failed to add new disposal.
+invalidweightvolume;Lütfen ağırlık ve hacim için geçerli sayı giriniz.;Please enter a valid number for weight and volume.
+nodisposalrecord;Henüz atık kaydı yok.;No disposals yet.
+waiting;Bekliyor;Waiting
+confirmdeletedisposal;Bu atık kaydını silmek istediğinize emin misiniz?;Are you sure you want to delete this disposal?
+delete;Sil;Delete
+faileddelete;Silinemedi.;Failed to delete.
+faileddeletedisposal;Silinemedi. Kayıt rezerve edilmiş veya geri dönüştürülmüş olabilir.;Could not be deleted. The record may be reserved or recycled.
+confirm;Onay;Confirm
+invalidemail;Lütfen geçerli bir e-posta adresi giriniz.;Please enter a valid email address.
+warning;Uyarı!;Warning!
+notification;Bilgilendirme;Notification
+filter;Filtre;Filter
+reservedones;Rezerve Edilenler;Reserved
+recycledones;Geri Dönüştürülenler;Recycled
+nodisposals;Atık bulunamadı.;No disposal found.
+nodata;Veri yok.;No data.
+save;Kaydet;Save
+returntologin;Giriş Ekranına Dön;Return to Login
+status;Durum;Status
+feedprefix;Son;Last
+feedsuffix;Adedi;Items
+showbtn;Göster;Show
+networkwarning;Bağlantınızı kontrol edin. Eğer Eduroam gibi kısıtlı bir okul/yurt interneti kullanıyorsanız VPN veya mobil veri kullanın.;Check your connection. If you are using a restricted school/dormitory internet connection such as Eduroam, use a VPN or mobile data.
+networkwarningtitle;Bağlantı Kurulamadı!;Connection Failed!
+loggingin;Giriş Yapılıyor;Logging In
+errorunexpected;Beklenmedik bir hata oluştu!;An unexpected error occurred!
+noemailassociated;Bu e-posta adresine ait bir hesap bulunamadı.;No account found with this email.
+forgotpass;Parolamı Unuttum;Forgot My Password
+passwordsent;Eğer girdiğiniz e-posta adresi sisteme kayıtlıysa yeni parolanız başarıyla gönderildi. Spam klasörünü kontrol etmeyi unutmayın.;Your new password has been successfully sent if the email address you entered is registered in the system. Don't forget to check spam folder.
+emailnotfound;Girdiğiniz e-posta adresi bulunamadı!;Email cannot be found!
+mailpasssubject;Yeni Hesap Parolanız / GreenHood;New Account Password / GreenHood
+hello;Merhaba;Hi
+passresetrequest;Hesabınız için şifre sıfırlama talebinde bulundunuz.;You have requested a password reset for your account.
+newtemppass;Yeni geçici şifreniz: {0};Your new temporary password is: {0}
+changetemppass;Lütfen giriş yaptıktan sonra şifrenizi değiştirin.;Please change your password after logging in.
+mailpasswarning;Eğer bu değişikliği yapan siz değilseniz en kısa zamanda bu şifreyi kullanarak hesabınıza giriş yapın ve e-posta adresinizi değiştirin.;If you did not make this change, log in to your account using this password as soon as possible and change your email address.
+enteremail;Hesabınızın kayıtlı olduğu posta adresini girin.;Enter the email address associated with your account.
+resetpasstitle;Parola Sıfırlama;Reset Password
+waitbeforenewrequest;Yeni bir sıfırlama isteği oluşturmak için {0} saniye daha beklemelisiniz!;You must wait {0} seconds to create a new password reset request!
