@@ -22,7 +22,7 @@ This project was engineered with a focus on **performance**, **security**, and *
 | **Packaging** | jpackage | Native executable generation. |
 
 ## ER Diagram of Database
-![ER](ERDiagram.png)
+![ER](img/ERDiagram.png)
 
 ## Engineering Highlights
 
@@ -39,10 +39,10 @@ This project was engineered with a focus on **performance**, **security**, and *
 
 | Title | Screenshot |
 | :---: | :---: |
-| Login Page | ![Login](https://drive.google.com/uc?export=view&id=182yRCfZZ40qMq65e5MmjCiEo_Thxa2SM) |
-| Main Dashboard | ![Dashboard](https://drive.google.com/uc?export=view&id=1xnS0MIUfhxS4z13zDEmPgVWrSQphY9s-) |
-| Stats Page | ![Stats](https://drive.google.com/uc?export=view&id=15Yo4QwhbapRcNDkSvXEg1HZSErTZUozJ) |
-| Edit Profile | ![EditProfile](https://drive.google.com/uc?export=view&id=1QgFabNwSsPOhQcgbJ0yDyEH44hnP6sVG) |
+| Login Page | ![Login](img/login.png) |
+| Main Dashboard | ![Dashboard](img/dashboard.png) |
+| Stats Page | ![Stats](img/stats.png) |
+| Edit Profile | ![EditProfile](img/editprofile.png) |
 
 ## Installation
 
