@@ -22,7 +22,7 @@ This project was engineered with a focus on **performance**, **security**, and *
 | **Packaging** | jpackage | Native executable generation. |
 
 ## ER Diagram of Database
-![ER](ER Diagram.png)
+![ER](ERDiagram.png)
 
 ## Engineering Highlights
 
